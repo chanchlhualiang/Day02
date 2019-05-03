@@ -1,0 +1,2 @@
+public class zuoYe04 {
+}
